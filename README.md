@@ -13,84 +13,12 @@ Removing people from crowded, real-world photos and rebuilding the hidden backgr
 
 This work was developed for **CSE 498R: Directed Research (Spring 2026)** at North South University under the supervision of **Dr. Jilan Samiuddin**.
 
----
-
-## Goal
-
-![Goal Illustration](assets/goal_illustration.png)
-*Figure 1: Original image → detected persons and removal mask → reconstructed output after removal.*
-
-Given a real-world multi-person scene, the system removes the target people and reconstructs a background that is visually coherent and structurally consistent with the untouched regions.
-
----
-
-## Approach
-
-PhantomFill is built as a coordinated multi-stage framework rather than a single-step inpainting call.
-
-### 1. Detection & Segmentation
-`YOLOv8x-seg` detects and segments every person in one automated pass (confidence threshold 0.25), producing instance masks that are merged into a unified removal mask.
-
-### 2. Mask Refinement
 
 ![Mask Refinement](assets/mask_refinement.png)
-*Figure 2: Raw mask → cleaned binary → dilated → smoothed → feathered context ring.*
 
-Raw segmentation masks are cleaned with morphological open/close (noise removal, hole filling), dilated for full coverage, Gaussian-smoothed, and feathered. A surrounding **context ring** provides spatial reference for the reconstruction models.
-
-### 3. Hybrid Global–Local Reconstruction
-* **Global (LaMa):** reconstructs the overall scene structure efficiently and preserves global layout, avoiding the extreme hallucination of diffusion-only inpainting.
-* **Local (Stable Diffusion 2):** a crop around the removed region (≈1.85× expansion, resized to 512×512, 30 inference steps, guidance 7.5) is refined for texture and realism, then blended back seamlessly.
-
-### 4. Second-Pass Refinement
-A follow-up pass re-checks the output with `YOLOv8x-seg` (conf > 0.20) and re-inpaints any remaining person-like regions with a slightly larger mask.
-
-### 5. Residual-Aware Evaluation
-Standard metrics (PSNR, SSIM, LPIPS) measure reconstruction quality but cannot tell whether the object was actually *removed*. PhantomFill re-runs person detection on the output and records the **count and confidence of remaining detections** as a direct measure of removal effectiveness — alongside **OUT-SSIM**, which verifies the non-masked regions are preserved.
-
----
-
-## System Architecture
-
-![System Architecture](assets/system_architecture.png)
-*Figure 5: End-to-end pipeline — detection → mask refinement → context ring → LaMa global inpainting → local crop → Stable Diffusion 2 refinement → blending → second-pass → residual-aware evaluation.*
-
----
-
-## Results
-
-Evaluated on a filtered subset of **104 multi-person images** from MS COCO (200 collected, filtered by mask-area ratio).
-
-**Final proposed pipeline (Stage 2 V2):**
-
-| Metric              | Value    |
-| ------------------- | -------- |
-| PSNR (region) ↑     | 18.17    |
-| SSIM (region) ↑     | 0.713    |
-| OUT-SSIM ↑          | 0.774    |
-| Residual count ↓    | 6.96     |
-| LaMa global time    | 0.92 s   |
-| Local diffusion time| 7.01 s   |
-| Total time / image  | 7.94 s   |
-
-**Progressive vs single-shot removal:** removing people one instance at a time (largest-first), re-inpainting after each step, improved perceptual quality — LPIPS won on **72 of 78 images (92.3%)** over naive single-shot removal.
 
 ![Baseline Comparison](assets/baseline_comparison.png)
-*Figure 6: Visual comparison across Navier–Stokes, Telea, LaMa, Stable Diffusion, and the hybrid method.*
 
-![Qualitative Results](assets/qualitative_results.png)
-*Figure 12: Qualitative outputs of the final pipeline — input, removal mask, global LaMa result, and final fused result.*
-
-**Key finding:** high reconstruction quality does not guarantee complete removal. A method can score well on PSNR/SSIM while still leaving detectable person-like traces — which is exactly why the residual-aware metric matters.
-
----
-
-## Pipeline Evolution
-
-![Stage-wise Pipeline](assets/stagewise_pipeline.png)
-*Figure 11: Stage 0 (dataset + masks) → Stage 1 (filtering + split) → Stage 2 (core hybrid pipeline) → Stage 2 V2 (finalized) → Stage 3 (experimental learning-based refinement).*
-
----
 
 ## Repository Structure
 
