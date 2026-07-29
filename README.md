@@ -1,4 +1,4 @@
-# PhantomFill — Instance-Aware Object Removal & High-Fidelity Background Reconstruction
+# Instance-Aware Object Removal & High-Fidelity Background Reconstruction
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
