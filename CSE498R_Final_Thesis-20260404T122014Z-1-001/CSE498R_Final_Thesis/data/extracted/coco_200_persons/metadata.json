@@ -1,0 +1,1602 @@
+[
+  {
+    "file_name": "000000090891.jpg",
+    "image_id": 90891,
+    "width": 640,
+    "height": 431,
+    "n_persons_gt": 5,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000293200.jpg",
+    "image_id": 293200,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 13,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000394206.jpg",
+    "image_id": 394206,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 10,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000376093.jpg",
+    "image_id": 376093,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 5,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000133969.jpg",
+    "image_id": 133969,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 13,
+    "n_large_gt": 7
+  },
+  {
+    "file_name": "000000013291.jpg",
+    "image_id": 13291,
+    "width": 500,
+    "height": 335,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000114907.jpg",
+    "image_id": 114907,
+    "width": 640,
+    "height": 425,
+    "n_persons_gt": 13,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000288584.jpg",
+    "image_id": 288584,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 9,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000363666.jpg",
+    "image_id": 363666,
+    "width": 640,
+    "height": 419,
+    "n_persons_gt": 6,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000275749.jpg",
+    "image_id": 275749,
+    "width": 500,
+    "height": 375,
+    "n_persons_gt": 6,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000450399.jpg",
+    "image_id": 450399,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 13,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000250137.jpg",
+    "image_id": 250137,
+    "width": 480,
+    "height": 640,
+    "n_persons_gt": 10,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000473219.jpg",
+    "image_id": 473219,
+    "width": 640,
+    "height": 428,
+    "n_persons_gt": 5,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000320642.jpg",
+    "image_id": 320642,
+    "width": 500,
+    "height": 321,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000537506.jpg",
+    "image_id": 537506,
+    "width": 600,
+    "height": 400,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000052996.jpg",
+    "image_id": 52996,
+    "width": 640,
+    "height": 426,
+    "n_persons_gt": 7,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000143961.jpg",
+    "image_id": 143961,
+    "width": 640,
+    "height": 356,
+    "n_persons_gt": 13,
+    "n_large_gt": 7
+  },
+  {
+    "file_name": "000000006954.jpg",
+    "image_id": 6954,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 5,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000016249.jpg",
+    "image_id": 16249,
+    "width": 500,
+    "height": 365,
+    "n_persons_gt": 5,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000208363.jpg",
+    "image_id": 208363,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 13,
+    "n_large_gt": 9
+  },
+  {
+    "file_name": "000000089648.jpg",
+    "image_id": 89648,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 11,
+    "n_large_gt": 8
+  },
+  {
+    "file_name": "000000484351.jpg",
+    "image_id": 484351,
+    "width": 640,
+    "height": 426,
+    "n_persons_gt": 13,
+    "n_large_gt": 7
+  },
+  {
+    "file_name": "000000009400.jpg",
+    "image_id": 9400,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 9,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000085157.jpg",
+    "image_id": 85157,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 7,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000188296.jpg",
+    "image_id": 188296,
+    "width": 640,
+    "height": 609,
+    "n_persons_gt": 7,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000410456.jpg",
+    "image_id": 410456,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 7,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000018380.jpg",
+    "image_id": 18380,
+    "width": 640,
+    "height": 426,
+    "n_persons_gt": 13,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000203389.jpg",
+    "image_id": 203389,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 9,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000554002.jpg",
+    "image_id": 554002,
+    "width": 640,
+    "height": 425,
+    "n_persons_gt": 10,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000266768.jpg",
+    "image_id": 266768,
+    "width": 612,
+    "height": 612,
+    "n_persons_gt": 13,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000146155.jpg",
+    "image_id": 146155,
+    "width": 640,
+    "height": 512,
+    "n_persons_gt": 5,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000509451.jpg",
+    "image_id": 509451,
+    "width": 500,
+    "height": 375,
+    "n_persons_gt": 6,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000183709.jpg",
+    "image_id": 183709,
+    "width": 480,
+    "height": 640,
+    "n_persons_gt": 12,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000353180.jpg",
+    "image_id": 353180,
+    "width": 640,
+    "height": 420,
+    "n_persons_gt": 10,
+    "n_large_gt": 9
+  },
+  {
+    "file_name": "000000350679.jpg",
+    "image_id": 350679,
+    "width": 640,
+    "height": 428,
+    "n_persons_gt": 10,
+    "n_large_gt": 7
+  },
+  {
+    "file_name": "000000489842.jpg",
+    "image_id": 489842,
+    "width": 640,
+    "height": 566,
+    "n_persons_gt": 13,
+    "n_large_gt": 10
+  },
+  {
+    "file_name": "000000356248.jpg",
+    "image_id": 356248,
+    "width": 478,
+    "height": 640,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000416104.jpg",
+    "image_id": 416104,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 11,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000053626.jpg",
+    "image_id": 53626,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000145597.jpg",
+    "image_id": 145597,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 5,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000281759.jpg",
+    "image_id": 281759,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 6,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000391722.jpg",
+    "image_id": 391722,
+    "width": 635,
+    "height": 640,
+    "n_persons_gt": 5,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000162732.jpg",
+    "image_id": 162732,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 5,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000054593.jpg",
+    "image_id": 54593,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 6,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000199771.jpg",
+    "image_id": 199771,
+    "width": 640,
+    "height": 425,
+    "n_persons_gt": 10,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000433103.jpg",
+    "image_id": 433103,
+    "width": 640,
+    "height": 425,
+    "n_persons_gt": 11,
+    "n_large_gt": 7
+  },
+  {
+    "file_name": "000000267537.jpg",
+    "image_id": 267537,
+    "width": 640,
+    "height": 470,
+    "n_persons_gt": 10,
+    "n_large_gt": 7
+  },
+  {
+    "file_name": "000000343561.jpg",
+    "image_id": 343561,
+    "width": 640,
+    "height": 428,
+    "n_persons_gt": 13,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000548780.jpg",
+    "image_id": 548780,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 6,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000081988.jpg",
+    "image_id": 81988,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 5,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000477288.jpg",
+    "image_id": 477288,
+    "width": 480,
+    "height": 640,
+    "n_persons_gt": 9,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000282298.jpg",
+    "image_id": 282298,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 13,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000579070.jpg",
+    "image_id": 579070,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 6,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000559842.jpg",
+    "image_id": 559842,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 13,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000002685.jpg",
+    "image_id": 2685,
+    "width": 640,
+    "height": 555,
+    "n_persons_gt": 6,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000269316.jpg",
+    "image_id": 269316,
+    "width": 640,
+    "height": 428,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000304180.jpg",
+    "image_id": 304180,
+    "width": 640,
+    "height": 418,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000160864.jpg",
+    "image_id": 160864,
+    "width": 640,
+    "height": 389,
+    "n_persons_gt": 6,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000278848.jpg",
+    "image_id": 278848,
+    "width": 480,
+    "height": 640,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000382125.jpg",
+    "image_id": 382125,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 9,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000383842.jpg",
+    "image_id": 383842,
+    "width": 640,
+    "height": 434,
+    "n_persons_gt": 10,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000284743.jpg",
+    "image_id": 284743,
+    "width": 640,
+    "height": 425,
+    "n_persons_gt": 5,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000080340.jpg",
+    "image_id": 80340,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 7,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000279278.jpg",
+    "image_id": 279278,
+    "width": 640,
+    "height": 429,
+    "n_persons_gt": 7,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000363188.jpg",
+    "image_id": 363188,
+    "width": 640,
+    "height": 425,
+    "n_persons_gt": 13,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000153229.jpg",
+    "image_id": 153229,
+    "width": 640,
+    "height": 457,
+    "n_persons_gt": 7,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000147729.jpg",
+    "image_id": 147729,
+    "width": 500,
+    "height": 375,
+    "n_persons_gt": 9,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000231580.jpg",
+    "image_id": 231580,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 7,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000171190.jpg",
+    "image_id": 171190,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 10,
+    "n_large_gt": 9
+  },
+  {
+    "file_name": "000000363207.jpg",
+    "image_id": 363207,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 6,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000556000.jpg",
+    "image_id": 556000,
+    "width": 640,
+    "height": 515,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000033104.jpg",
+    "image_id": 33104,
+    "width": 428,
+    "height": 500,
+    "n_persons_gt": 6,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000541773.jpg",
+    "image_id": 541773,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 5,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000397354.jpg",
+    "image_id": 397354,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 6,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000399205.jpg",
+    "image_id": 399205,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 12,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000308631.jpg",
+    "image_id": 308631,
+    "width": 640,
+    "height": 426,
+    "n_persons_gt": 10,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000497599.jpg",
+    "image_id": 497599,
+    "width": 427,
+    "height": 640,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000075612.jpg",
+    "image_id": 75612,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 12,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000179898.jpg",
+    "image_id": 179898,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 9,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000233771.jpg",
+    "image_id": 233771,
+    "width": 640,
+    "height": 640,
+    "n_persons_gt": 10,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000006771.jpg",
+    "image_id": 6771,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 8,
+    "n_large_gt": 7
+  },
+  {
+    "file_name": "000000411817.jpg",
+    "image_id": 411817,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 8,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000197388.jpg",
+    "image_id": 197388,
+    "width": 640,
+    "height": 392,
+    "n_persons_gt": 5,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000223182.jpg",
+    "image_id": 223182,
+    "width": 640,
+    "height": 538,
+    "n_persons_gt": 5,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000179642.jpg",
+    "image_id": 179642,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 10,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000470779.jpg",
+    "image_id": 470779,
+    "width": 640,
+    "height": 479,
+    "n_persons_gt": 5,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000163746.jpg",
+    "image_id": 163746,
+    "width": 640,
+    "height": 488,
+    "n_persons_gt": 11,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000231879.jpg",
+    "image_id": 231879,
+    "width": 640,
+    "height": 426,
+    "n_persons_gt": 5,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000297562.jpg",
+    "image_id": 297562,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 10,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000306139.jpg",
+    "image_id": 306139,
+    "width": 640,
+    "height": 426,
+    "n_persons_gt": 8,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000481390.jpg",
+    "image_id": 481390,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 13,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000558114.jpg",
+    "image_id": 558114,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 13,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000140987.jpg",
+    "image_id": 140987,
+    "width": 425,
+    "height": 640,
+    "n_persons_gt": 6,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000546219.jpg",
+    "image_id": 546219,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 9,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000566923.jpg",
+    "image_id": 566923,
+    "width": 640,
+    "height": 426,
+    "n_persons_gt": 10,
+    "n_large_gt": 7
+  },
+  {
+    "file_name": "000000514508.jpg",
+    "image_id": 514508,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000005193.jpg",
+    "image_id": 5193,
+    "width": 640,
+    "height": 425,
+    "n_persons_gt": 6,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000465180.jpg",
+    "image_id": 465180,
+    "width": 640,
+    "height": 426,
+    "n_persons_gt": 6,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000380913.jpg",
+    "image_id": 380913,
+    "width": 640,
+    "height": 428,
+    "n_persons_gt": 6,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000013729.jpg",
+    "image_id": 13729,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000334483.jpg",
+    "image_id": 334483,
+    "width": 480,
+    "height": 640,
+    "n_persons_gt": 8,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000179141.jpg",
+    "image_id": 179141,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000001000.jpg",
+    "image_id": 1000,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 12,
+    "n_large_gt": 9
+  },
+  {
+    "file_name": "000000350148.jpg",
+    "image_id": 350148,
+    "width": 480,
+    "height": 640,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000548339.jpg",
+    "image_id": 548339,
+    "width": 640,
+    "height": 576,
+    "n_persons_gt": 5,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000463690.jpg",
+    "image_id": 463690,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000406997.jpg",
+    "image_id": 406997,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 5,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000506707.jpg",
+    "image_id": 506707,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 8,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000518770.jpg",
+    "image_id": 518770,
+    "width": 500,
+    "height": 375,
+    "n_persons_gt": 5,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000470952.jpg",
+    "image_id": 470952,
+    "width": 428,
+    "height": 640,
+    "n_persons_gt": 8,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000168883.jpg",
+    "image_id": 168883,
+    "width": 479,
+    "height": 640,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000520707.jpg",
+    "image_id": 520707,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 13,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000032334.jpg",
+    "image_id": 32334,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 5,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000448076.jpg",
+    "image_id": 448076,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 6,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000467176.jpg",
+    "image_id": 467176,
+    "width": 640,
+    "height": 428,
+    "n_persons_gt": 6,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000427256.jpg",
+    "image_id": 427256,
+    "width": 640,
+    "height": 512,
+    "n_persons_gt": 13,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000132544.jpg",
+    "image_id": 132544,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 10,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000060932.jpg",
+    "image_id": 60932,
+    "width": 640,
+    "height": 428,
+    "n_persons_gt": 12,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000121744.jpg",
+    "image_id": 121744,
+    "width": 640,
+    "height": 426,
+    "n_persons_gt": 11,
+    "n_large_gt": 7
+  },
+  {
+    "file_name": "000000144003.jpg",
+    "image_id": 144003,
+    "width": 500,
+    "height": 375,
+    "n_persons_gt": 6,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000123633.jpg",
+    "image_id": 123633,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 5,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000013659.jpg",
+    "image_id": 13659,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 5,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000329323.jpg",
+    "image_id": 329323,
+    "width": 425,
+    "height": 640,
+    "n_persons_gt": 13,
+    "n_large_gt": 10
+  },
+  {
+    "file_name": "000000553731.jpg",
+    "image_id": 553731,
+    "width": 640,
+    "height": 428,
+    "n_persons_gt": 6,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000210230.jpg",
+    "image_id": 210230,
+    "width": 640,
+    "height": 457,
+    "n_persons_gt": 8,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000370486.jpg",
+    "image_id": 370486,
+    "width": 421,
+    "height": 640,
+    "n_persons_gt": 13,
+    "n_large_gt": 7
+  },
+  {
+    "file_name": "000000156643.jpg",
+    "image_id": 156643,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 10,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000151820.jpg",
+    "image_id": 151820,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 7,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000276018.jpg",
+    "image_id": 276018,
+    "width": 416,
+    "height": 640,
+    "n_persons_gt": 10,
+    "n_large_gt": 8
+  },
+  {
+    "file_name": "000000451879.jpg",
+    "image_id": 451879,
+    "width": 500,
+    "height": 438,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000009590.jpg",
+    "image_id": 9590,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 6,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000530162.jpg",
+    "image_id": 530162,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 10,
+    "n_large_gt": 8
+  },
+  {
+    "file_name": "000000064523.jpg",
+    "image_id": 64523,
+    "width": 640,
+    "height": 444,
+    "n_persons_gt": 11,
+    "n_large_gt": 11
+  },
+  {
+    "file_name": "000000091406.jpg",
+    "image_id": 91406,
+    "width": 640,
+    "height": 424,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000059044.jpg",
+    "image_id": 59044,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 13,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000376322.jpg",
+    "image_id": 376322,
+    "width": 478,
+    "height": 640,
+    "n_persons_gt": 13,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000100723.jpg",
+    "image_id": 100723,
+    "width": 500,
+    "height": 333,
+    "n_persons_gt": 13,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000280710.jpg",
+    "image_id": 280710,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 11,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000068409.jpg",
+    "image_id": 68409,
+    "width": 640,
+    "height": 263,
+    "n_persons_gt": 10,
+    "n_large_gt": 8
+  },
+  {
+    "file_name": "000000253742.jpg",
+    "image_id": 253742,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 10,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000303566.jpg",
+    "image_id": 303566,
+    "width": 640,
+    "height": 426,
+    "n_persons_gt": 13,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000162092.jpg",
+    "image_id": 162092,
+    "width": 640,
+    "height": 640,
+    "n_persons_gt": 11,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000401862.jpg",
+    "image_id": 401862,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 8,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000239717.jpg",
+    "image_id": 239717,
+    "width": 554,
+    "height": 640,
+    "n_persons_gt": 8,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000468332.jpg",
+    "image_id": 468332,
+    "width": 640,
+    "height": 424,
+    "n_persons_gt": 10,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000281409.jpg",
+    "image_id": 281409,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 12,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000012670.jpg",
+    "image_id": 12670,
+    "width": 640,
+    "height": 428,
+    "n_persons_gt": 13,
+    "n_large_gt": 9
+  },
+  {
+    "file_name": "000000186449.jpg",
+    "image_id": 186449,
+    "width": 436,
+    "height": 640,
+    "n_persons_gt": 7,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000326541.jpg",
+    "image_id": 326541,
+    "width": 640,
+    "height": 360,
+    "n_persons_gt": 6,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000254516.jpg",
+    "image_id": 254516,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 9,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000479155.jpg",
+    "image_id": 479155,
+    "width": 500,
+    "height": 332,
+    "n_persons_gt": 9,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000453166.jpg",
+    "image_id": 453166,
+    "width": 640,
+    "height": 425,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000121497.jpg",
+    "image_id": 121497,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 6,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000545594.jpg",
+    "image_id": 545594,
+    "width": 640,
+    "height": 512,
+    "n_persons_gt": 8,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000275198.jpg",
+    "image_id": 275198,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 5,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000578489.jpg",
+    "image_id": 578489,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 7,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000153669.jpg",
+    "image_id": 153669,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 13,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000437239.jpg",
+    "image_id": 437239,
+    "width": 640,
+    "height": 425,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000122962.jpg",
+    "image_id": 122962,
+    "width": 640,
+    "height": 424,
+    "n_persons_gt": 13,
+    "n_large_gt": 8
+  },
+  {
+    "file_name": "000000463199.jpg",
+    "image_id": 463199,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 12,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000329456.jpg",
+    "image_id": 329456,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 5,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000480021.jpg",
+    "image_id": 480021,
+    "width": 640,
+    "height": 471,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000180101.jpg",
+    "image_id": 180101,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000567640.jpg",
+    "image_id": 567640,
+    "width": 640,
+    "height": 425,
+    "n_persons_gt": 7,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000181542.jpg",
+    "image_id": 181542,
+    "width": 640,
+    "height": 600,
+    "n_persons_gt": 13,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000323799.jpg",
+    "image_id": 323799,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 11,
+    "n_large_gt": 10
+  },
+  {
+    "file_name": "000000238410.jpg",
+    "image_id": 238410,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 9,
+    "n_large_gt": 7
+  },
+  {
+    "file_name": "000000100238.jpg",
+    "image_id": 100238,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000405249.jpg",
+    "image_id": 405249,
+    "width": 500,
+    "height": 375,
+    "n_persons_gt": 10,
+    "n_large_gt": 10
+  },
+  {
+    "file_name": "000000088848.jpg",
+    "image_id": 88848,
+    "width": 640,
+    "height": 640,
+    "n_persons_gt": 5,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000541055.jpg",
+    "image_id": 541055,
+    "width": 640,
+    "height": 360,
+    "n_persons_gt": 5,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000498747.jpg",
+    "image_id": 498747,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 9,
+    "n_large_gt": 7
+  },
+  {
+    "file_name": "000000015335.jpg",
+    "image_id": 15335,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 11,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000453708.jpg",
+    "image_id": 453708,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 9,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000483999.jpg",
+    "image_id": 483999,
+    "width": 640,
+    "height": 428,
+    "n_persons_gt": 11,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000358923.jpg",
+    "image_id": 358923,
+    "width": 640,
+    "height": 428,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000563882.jpg",
+    "image_id": 563882,
+    "width": 640,
+    "height": 425,
+    "n_persons_gt": 8,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000247917.jpg",
+    "image_id": 247917,
+    "width": 612,
+    "height": 612,
+    "n_persons_gt": 10,
+    "n_large_gt": 8
+  },
+  {
+    "file_name": "000000224807.jpg",
+    "image_id": 224807,
+    "width": 640,
+    "height": 428,
+    "n_persons_gt": 13,
+    "n_large_gt": 8
+  },
+  {
+    "file_name": "000000411938.jpg",
+    "image_id": 411938,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 7,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000443969.jpg",
+    "image_id": 443969,
+    "width": 612,
+    "height": 612,
+    "n_persons_gt": 6,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000176857.jpg",
+    "image_id": 176857,
+    "width": 500,
+    "height": 375,
+    "n_persons_gt": 12,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000250282.jpg",
+    "image_id": 250282,
+    "width": 640,
+    "height": 426,
+    "n_persons_gt": 13,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000398203.jpg",
+    "image_id": 398203,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 12,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000125936.jpg",
+    "image_id": 125936,
+    "width": 500,
+    "height": 327,
+    "n_persons_gt": 5,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000277020.jpg",
+    "image_id": 277020,
+    "width": 640,
+    "height": 360,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000461009.jpg",
+    "image_id": 461009,
+    "width": 612,
+    "height": 612,
+    "n_persons_gt": 6,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000203629.jpg",
+    "image_id": 203629,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 11,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000157767.jpg",
+    "image_id": 157767,
+    "width": 640,
+    "height": 427,
+    "n_persons_gt": 13,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000005001.jpg",
+    "image_id": 5001,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 13,
+    "n_large_gt": 8
+  },
+  {
+    "file_name": "000000404678.jpg",
+    "image_id": 404678,
+    "width": 640,
+    "height": 425,
+    "n_persons_gt": 9,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000004134.jpg",
+    "image_id": 4134,
+    "width": 640,
+    "height": 425,
+    "n_persons_gt": 13,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000172946.jpg",
+    "image_id": 172946,
+    "width": 427,
+    "height": 640,
+    "n_persons_gt": 13,
+    "n_large_gt": 6
+  },
+  {
+    "file_name": "000000233238.jpg",
+    "image_id": 233238,
+    "width": 480,
+    "height": 640,
+    "n_persons_gt": 9,
+    "n_large_gt": 7
+  },
+  {
+    "file_name": "000000218997.jpg",
+    "image_id": 218997,
+    "width": 640,
+    "height": 622,
+    "n_persons_gt": 12,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000290163.jpg",
+    "image_id": 290163,
+    "width": 512,
+    "height": 640,
+    "n_persons_gt": 4,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000032901.jpg",
+    "image_id": 32901,
+    "width": 640,
+    "height": 546,
+    "n_persons_gt": 5,
+    "n_large_gt": 4
+  },
+  {
+    "file_name": "000000441543.jpg",
+    "image_id": 441543,
+    "width": 640,
+    "height": 403,
+    "n_persons_gt": 13,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000130826.jpg",
+    "image_id": 130826,
+    "width": 640,
+    "height": 480,
+    "n_persons_gt": 6,
+    "n_large_gt": 5
+  },
+  {
+    "file_name": "000000294350.jpg",
+    "image_id": 294350,
+    "width": 640,
+    "height": 425,
+    "n_persons_gt": 7,
+    "n_large_gt": 4
+  }
+]
